@@ -1,7 +1,7 @@
 # 🍕 Pizza_Sales_Analysis
 This project is a comprehensive SQL-based analysis of a fictional pizza restaurant's sales data, focusing on business insights, customer behavior, and revenue trends. The dataset includes information on orders, pizzas, sizes, categories, prices, and timestamps.
 
-# The project is structured into three levels of increasing complexity:
+# The project is structured into two levels of increasing complexity:
 
 # ✅ Basic Analysis
 Retrieve total number of orders placed
