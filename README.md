@@ -27,10 +27,4 @@ Calculate average pizzas ordered per day (date-wise grouping)
 Identify Top 3 revenue-generating pizzas
 
 
-# 📊 Advanced Analysis
-Calculate each pizza type’s percentage contribution to total revenue
-
-Track cumulative revenue growth over time
-
-Determine Top 3 revenue-generating pizzas within each category
 
